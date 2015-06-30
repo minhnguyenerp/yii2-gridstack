@@ -17,6 +17,6 @@ class LodashAsset extends AssetBundle
     public $sourcePath = '@bower/lodash'; 
 
     public $js = [
-        'lodash.js',
+        'index.js',
     ];
 }
